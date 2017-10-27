@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\lrooz\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_Schoolproject.318192111.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Public\Documents\Unity Projects\Schoolproject" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Asset store parts" t="Include">
+          <e p="KinoMotion-master" t="Include">
+            <e p="Assets" t="Include">
+              <e p="ColorSuite" t="Include">
+                <e p="ColorSuite.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="ColorSuiteEditor.cs" t="Include" />
+                </e>
+                <e p="Shader" t="Include">
+                  <e p="ColorSuite.shader" t="Include" />
+                </e>
+              </e>
+              <e p="Editor" t="Include">
+                <e p="PackageTool.cs" t="Include" />
+              </e>
+              <e p="Kino" t="Include">
+                <e p="Motion" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="MotionEditor.cs" t="Include" />
+                    <e p="MotionGraphDrawer.cs" t="Include" />
+                  </e>
+                  <e p="Motion.cs" t="Include" />
+                  <e p="Script" t="Include">
+                    <e p="FrameBlendingFilter.cs" t="Include" />
+                    <e p="ReconstructionFilter.cs" t="Include" />
+                  </e>
+                  <e p="Shader" t="Include">
+                    <e p="Common.cginc" t="Include" />
+                    <e p="FrameBlending.shader" t="Include" />
+                    <e p="Prefilter.cginc" t="Include" />
+                    <e p="Reconstruction.cginc" t="Include" />
+                    <e p="Reconstruction.shader" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Kino Imported" t="Include">
+                <e p="Obscurance" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="ObscuranceEditor.cs" t="Include" />
+                  </e>
+                  <e p="Obscurance.cs" t="Include" />
+                  <e p="Script" t="Include">
+                    <e p="PropertyObserver.cs" t="Include" />
+                  </e>
+                  <e p="Shader" t="Include">
+                    <e p="Common.cginc" t="Include" />
+                    <e p="Composition.cginc" t="Include" />
+                    <e p="Obscurance.cginc" t="Include" />
+                    <e p="Obscurance.shader" t="Include" />
+                    <e p="SeparableBlur.cginc" t="Include" />
+                  </e>
+                </e>
+                <e p="Vignette" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="VignetteEditor.cs" t="Include" />
+                  </e>
+                  <e p="Shader" t="Include">
+                    <e p="Vignette.shader" t="Include" />
+                  </e>
+                  <e p="Vignette.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Klak" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="GUIHelper.cs" t="Include" />
+                  <e p="ImageSequenceWindow.cs" t="Include" />
+                </e>
+                <e p="Math" t="Include">
+                  <e p="NoiseGenerator.cs" t="Include" />
+                  <e p="Perlin.cs" t="Include" />
+                  <e p="XXHash.cs" t="Include" />
+                </e>
+                <e p="Motion" t="Include">
+                  <e p="BrownianMotion.cs" t="Include" />
+                  <e p="ConstantMotion.cs" t="Include" />
+                  <e p="Editor" t="Include">
+                    <e p="BrownianMotionEditor.cs" t="Include" />
+                    <e p="ConstantMotionEditor.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="sIBL Archive" t="Include">
+                <e p="Acknowledgement.txt" t="Include" />
+              </e>
+              <e p="Test" t="Include">
+                <e p="Material" t="Include">
+                  <e p="Background.shader" t="Include" />
+                </e>
+                <e p="Scroller.cs" t="Include" />
+              </e>
+            </e>
+            <e p="LICENSE.txt" t="Include" />
+            <e p="ProjectSettings" t="Include">
+              <e p="ProjectVersion.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="MovePlayer.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Schoolproject.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
